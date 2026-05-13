@@ -1,9 +1,0 @@
-voila
-ipywidgets
-numpy
-pandas
-matplotlib
-requests
-holidays
-demandlib
-openpyxl
